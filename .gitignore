@@ -1,0 +1,14 @@
+_build
+res
+run_tests
+*.marshal
+*.cma
+*.cmo
+*.cmx
+*.a
+*.o
+*.annot
+*.cmi
+.*.swp
+._d/
+._ncdi/
