@@ -1,0 +1,7 @@
+* Install delimcc and Lwt.
+
+$ make && make -f Makefile.res
+$ ./run_tests
+$ ./res 
+
+Res dumps the data as a Google Charts API URL.
